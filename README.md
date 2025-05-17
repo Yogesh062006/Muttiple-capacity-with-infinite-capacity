@@ -64,8 +64,6 @@ print("--------------------------------------------------------------")
 
 ## Output :
 ![image](https://github.com/user-attachments/assets/2a1439c5-b149-44b2-9c80-98c5efcfa1a9)
-
-
 ## Result :
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
